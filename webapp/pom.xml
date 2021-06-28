@@ -10,7 +10,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>webapp</artifactId>
+  <artifactId>KM_WEBAPP</artifactId>
   <packaging>war</packaging>
   <name>KM_WEBAPP</name>
   <description>Webapp.</description>
